@@ -1,0 +1,35 @@
+Spotify Clone App - Scope Document
+
+Project Overview
+The Spotify Clone App aims to replicate the core functionalities of the popular music streaming service, Spotify. The application will allow users to discover, listen to, and organize their favorite music, create playlists, and explore a vast library of songs.
+
+Project Objectives
+
+1.User Registration and Authentication:
+> Allow users to register and log in securely.
+
+2.Music Catalog:
+
+> Integrate with a music database to provide a wide selection of songs.
+> Enable users to search for songs, artists, and albums.
+
+3.Playlist Management:
+
+> Enable users to create, edit, and delete playlists.
+> Allow users to add or remove songs from playlists.
+
+4.Music Playback:
+
+> Implement a player for playing songs.
+> Provide basic playback controls (play, pause, skip, volume).
+
+5.Security:
+
+> Implement secure practices for user data storage and transmission.
+> Protect against common web vulnerabilities.
+
+Technologies Used
+
+Front-end: HTML, CSS/Bootstrap, Javascript
+Back-end: Node.js, Express
+Database: Mongodb
